@@ -1,0 +1,28 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import '~@nativescript/theme/core';
+@import '~@nativescript/theme/default';
+
+// Override variables here
+
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+.fa {
+    font-family: FontAwesome, fontawesome-webfont;
+  }
+
+.text-justify{
+    text-align: justify;
+}
+
+.fab-button {
+    height: 70;
+    width: 70; 
+    margin: 15;
+    background-color: #ff4081;
+    horizontal-align: right;
+    vertical-align: bottom;
+    color:#fff
+  }
+
