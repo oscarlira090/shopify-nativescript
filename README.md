@@ -16,6 +16,9 @@ Plugins
 * "vue-class-component": "^7.2.6",
 * "vue-property-decorator": "^9.1.2"
 
+![shopify products](https://github.com/oscarlira090/shopify-nativescript/blob/master/shopify-app-list.jpeg)
+
+
 ``` bash
 # Install dependencies
 npm install
