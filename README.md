@@ -1,23 +1,30 @@
-# shopifyapp
+# FIRESTORE | FIRBASE in NATIVESCRIPT VUE  
 
-> usage of shopify admin api in a nativescript app
+This app shows a small example using Firestore database in nativescript vue - Typescript
+
+The project has the next features:
+
+- List items
+- Add item
+- Update item
+- Delete item
+
+Plugins
+
+* nativescript-ui-dataform
+* @nativescript/firebase
+* nativescript-toast
+* @nstudio/nativescript-floatingactionbutton
+
+## Video demo
+
+![demo vue](https://github.com/oscarlira090/firestore-demo-ns-vue/blob/master/demo.gif)
 
 ## Usage
 
 ``` bash
 # Install dependencies
 npm install
-
-# Preview on device
-tns preview
-
-# Build, watch for changes and run the application
-tns run
-
-# Build, watch for changes and debug the application
-tns debug <platform>
-
-# Build for production
-tns build <platform> --env.production
-
+ns run
 ```
+
