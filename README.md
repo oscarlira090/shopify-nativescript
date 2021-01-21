@@ -16,7 +16,7 @@ Plugins
 * "vue-class-component": "^7.2.6",
 * "vue-property-decorator": "^9.1.2"
 
-<img src="https://github.com/oscarlira090/shopify-nativescript/blob/master/shopify-app-list.jpeg" width="300" height="900"/>
+<img src="https://github.com/oscarlira090/shopify-nativescript/blob/master/shopify-app-list.jpeg" width="300" height="600"/>
 
 
 ``` bash
